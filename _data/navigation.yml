@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "메뉴1"
-    url: /gitTest/
+    url: /gittest/
   - title: "메뉴2"
-    url: /webTest/  
+    url: /webtest/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
