@@ -5,7 +5,9 @@ main:
   - title: "메뉴2"
     url: /webTest/
   - title: "메뉴3"
-    url: /webTest2/    
+    url: /webTest2/
+  - title: "메뉴4"
+    url: /webTest3/    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
